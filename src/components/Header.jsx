@@ -9,7 +9,7 @@ export default function Header() {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src='./images/logo.svg' alt='' />
+          <Logo src='./images/logo.svg' alt='Huddle Logo' />
           <Button>Try It Free</Button>
         </Nav>
 
